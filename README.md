@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Shivendra Maurya 👋<br><br>🎓 Computer Science Engineering Student  <br>💻 Interested in Software Development and Data Structure and Algorithm.  <br>📚 Currently learning Data Structures & Algorithms and Web Development  <br>🚀 Passionate about improving problem-solving skills and exploring new technologies  <br><br>Skills: HTML, CSS, JavaScript, Python, C++ , React, MySql
+Hi, I'm Shivendra Maurya 👋<br><br>🎓 Computer Science Engineering Student  <br>💻 Interested in Software Development and Data Structure and Algorithm.  <br>📚 Currently learning Data Structures & Algorithms and Web Development  <br>🚀 Passionate about improving problem-solving skills and exploring new technologies  <br><br>Skills: HTML, CSS, JavaScript, React, Node.js, MongoDB, MySql, Docker, C++ .
 
 
 ## 🌐 Socials:
